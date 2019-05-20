@@ -1,6 +1,5 @@
-# This file is used to automatically put launch icon on desktop and perform all needed configuration after reboot and 
-# typing sudo password only once after each reboot. Initial install and other preparation is required before use of this
-# method.
+# This file is used to automatically put launch icon on desktop and perform all needed configuration and typing sudo
+# password only once after each reboot. Initial install and other preparation is required before use of this method.
 #######################################################################################################################
 #######################################################################################################################
 ########################################## Begin Script ###############################################################
